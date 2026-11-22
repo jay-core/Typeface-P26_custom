@@ -28,18 +28,18 @@ TTFWidth: 5
 LineGap: 0
 VLineGap: 90
 Panose: 2 11 5 9 0 0 0 0 0 0
-OS2TypoAscent: 850
+OS2TypoAscent: 800
 OS2TypoAOffset: 0
-OS2TypoDescent: -250
+OS2TypoDescent: -200
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
 OS2WinAscent: 940
 OS2WinAOffset: 0
 OS2WinDescent: 389
 OS2WinDOffset: 0
-HheadAscent: 850
+HheadAscent: 800
 HheadAOffset: 0
-HheadDescent: -250
+HheadDescent: -200
 HheadDOffset: 0
 OS2SubXSize: 650
 OS2SubYSize: 700
